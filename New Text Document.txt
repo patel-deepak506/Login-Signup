@@ -1,1 +1,6 @@
-this is the new text documentations which is belong to update and learnig github and bitbucket by using udemy cources
+this is the new text documentations which is belong to update and learnig github and bitbucket by using udemy cources.
+
+
+
+
+this is the git conflicts for the understapding line...
